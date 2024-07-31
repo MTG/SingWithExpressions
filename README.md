@@ -1,2 +1,5 @@
-# SingWithExpressions
-Accompanying repository to the ISMIR submission - Automatic Estimation of Singing Voice Musical Dynamics
+## Dataset
+### Overview
+SingWithExpressions is the accompanying dataset consisting of 509 performances, 163 score files. The resulting dataset can serve as a valuable resource for various MIR research endeavors such as transcription, synthesis, or vocal pedagogy.
+
+
