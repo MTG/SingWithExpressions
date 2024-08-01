@@ -5,7 +5,7 @@ dataset_training/*/audio/*
 dataset_training/*/aligned_xml/*
 dataset_training/*/crepe/*
 dataset_training/*/basic_pitch/*
-voice/*/corrected_aligned_df/*
+dataset_training/*/corrected_aligned_df/*
 dataset_training/*/corrected_aligned_df_classification/*
 dataset_training/*/MIDI/*
 dataset_training/*/separated_audio_rest/*
