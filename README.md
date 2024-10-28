@@ -6,5 +6,5 @@ The dataset consists of 509 performances synchronized with 163 score files, cura
 The performances are sources from YouTube and the scores are sources from [OperScore Lieder Corpus](https://github.com/OpenScore/Lieder.git). For isolating vocals, we [Demucs](https://github.com/facebookresearch/demucs.git), followed by automatic alignment with the scores from Lieder corpus. More details can be found in the accompanying paper.  
 
 # License
-ChoralSynth is licensed under CC BY-NC-SA 4.0
+SingWithExpressions is licensed under CC BY-NC-SA 4.0
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
